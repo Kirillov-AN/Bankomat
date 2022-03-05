@@ -1,0 +1,11 @@
+C:\Users\Danil\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Danil\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Danil\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Danil\source\repos\Bank\Bank\obj\Debug\Bank.pdb
